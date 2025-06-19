@@ -1,12 +1,20 @@
-# Hey, I'm Rouaa Guesmi 👩‍💻
 
-Welcome to my little corner of code and creativity! I'm a passionate coder diving deep into various small projects while mastering the art of Data Science. Every day is a new adventure in learning, and I’m here to make magic with Python, R, and a whole lot more.
+# Rouaa Guesmi – Architect of Intelligent Systems
 
-## 🚀 What I'm Up To:
-- **Projects:** Experimenting with innovative solutions and cutting-edge tech.
-- **Learning:** Constantly expanding my horizons in Data Science and beyond.
+Welcome to the domain where data becomes strategy and intelligence becomes action. I specialize in building autonomous AI systems, architecting scalable ML pipelines, and deploying high-impact, production-grade solutions. My work converges at the intersection of deep learning, agent-based architectures, and real-world impact.
 
-## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rouaa-guesmi/)
+## ⚙️ Core Focus:
 
+* **Projects:** Designing autonomous LLM agents (AutoGPT++), financial AI copilots (FinLLM), and robust AI infrastructure using FastAPI, MLflow, Redis, Docker, and Kubernetes.
+* **Research & Development:** Mastering advanced ML theory, optimization techniques, and LLM fine-tuning while pushing the boundaries of AI alignment, reasoning, and orchestration.
+* **Engineering Excellence:** Delivering FAANG-level systems with reproducibility, scalability, and modular architecture at their core.
 
+## 🧠 Current Tech Stack:
+
+Python, PyTorch, RAG, LLaMA, ChromaDB, LangChain, FastAPI, Redis, Docker, Kubernetes, MLflow, GitHub Actions, CI/CD.
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rouaa-guesmi/)
+
+---
