@@ -5,7 +5,7 @@ Welcome to the domain where data becomes strategy and intelligence becomes actio
 
 ## ⚙️ Core Focus:
 
-* **Projects:** Designing autonomous LLM agents (AutoGPT++), financial AI copilots (FinLLM), and robust AI infrastructure using FastAPI, MLflow, Redis, Docker, and Kubernetes.
+* **Projects:** Designing autonomous LLM agents (AutoGPT), financial AI copilots (FinLLM), and robust AI infrastructure using FastAPI, MLflow, Redis, Docker, and Kubernetes.
 * **Research & Development:** Mastering advanced ML theory, optimization techniques, and LLM fine-tuning while pushing the boundaries of AI alignment, reasoning, and orchestration.
 * **Engineering Excellence:** Delivering FAANG-level systems with reproducibility, scalability, and modular architecture at their core.
 
